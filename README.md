@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white})
+
 🔭 I’m currently working as a C++ Developer at 7gFuse.\
 📝 My daily work includes writing C++ code, building Linux (OpenWRT), optimizing already written code, and research.\
 🌱 I’m currently learning Data Structures and Algorithms, you may check the pinned repository to see my progress.\
