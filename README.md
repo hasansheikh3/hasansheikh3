@@ -4,7 +4,7 @@
 📝 My daily work includes writing C++ code, building Linux (OpenWRT), optimizing already written code, and research.\
 🌱 I’m currently learning Data Structures and Algorithms, you may check the pinned repository to see my progress.\
 🤔 I’m looking for help with Backend Development.\
-📫 Connect with me on LinkedIn : <a> bit.ly/HasanSheikh </a>
+[📫 Connect with me on LinkedIn :  ](bit.ly/HasanSheikh) 
 
 <!--
 **hasansheikh3/hasansheikh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
