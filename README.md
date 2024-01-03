@@ -1,5 +1,6 @@
 <h1 align='center'>
   Hi there 👋 I'm Hasan
+  [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 </h1>
 
 <p align='center'>
